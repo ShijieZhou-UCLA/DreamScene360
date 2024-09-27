@@ -1,4 +1,4 @@
-# 3D Gaussian Splatting for Real-Time Radiance Field Rendering
+# DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting
 Shijie Zhou*, Zhiwen Fan*, Dejia Xu*, Haoran Chang, Pradyumna Chari, Tejas Bharadwaj, Suya You, Zhangyang Wang, Achuta Kadambi (* indicates equal contribution)<br>
 | [Webpage](https://dreamscene360.github.io/) | [Full Paper](https://arxiv.org/abs/2404.06903) | [Video](https://www.youtube.com/embed/6rMIQfe7b24?si=cm7cZ-T9r5na7YFD) | <br>
 ![Teaser image](assets/teaser_v6.png)
