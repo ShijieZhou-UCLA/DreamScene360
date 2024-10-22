@@ -10,16 +10,16 @@ Abstract: *The increasing demand for virtual reality applications has highlighte
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
-    <pre><code>@article{zhou2024dreamscene360,
-  title={DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting},
+    <pre><code>@inproceedings{zhou2025dreamscene360,
+  title={Dreamscene360: Unconstrained text-to-3d scene generation with panoramic gaussian splatting},
   author={Zhou, Shijie and Fan, Zhiwen and Xu, Dejia and Chang, Haoran and Chari, Pradyumna and Bharadwaj, Tejas and You, Suya and Wang, Zhangyang and Kadambi, Achuta},
-  journal={arXiv preprint arXiv:2404.06903},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={324--342},
+  year={2025},
+  organization={Springer}
 }</code></pre>
   </div>
 </section>
-
-
 
 
 
